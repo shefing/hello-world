@@ -1,4 +1,4 @@
 # hello-world
-getting start with github / just another repository
-hello!  i'm a programmer,
+getting start with github /
+hello!  I'm a programmer,
 I like lerning etc...
